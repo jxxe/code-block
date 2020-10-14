@@ -10,7 +10,6 @@ Author URI: https://jeromepaulos.com
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: code-block
-Domain Path: /translations
 */
 
 define( 'CODE_BLOCK_URL', plugins_url( 'code-block' ) );
