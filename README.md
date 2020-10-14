@@ -1,4 +1,4 @@
-# Code Block
+# Gutenberg Code Block
 
 A simple Gutenberg block for displaying code snippets.
 
