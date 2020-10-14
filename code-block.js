@@ -11,6 +11,7 @@ const languages = {
     html: 'HTML',
     css: 'CSS',
     javascript: 'JavaScript',
+    python: 'Python',
     php: 'PHP',
     ruby: 'Ruby',
     scss: 'SCSS',
