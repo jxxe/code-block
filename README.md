@@ -1,6 +1,6 @@
 # Gutenberg Code Block
 
-A simple Gutenberg block for displaying code snippets.
+A simple and nice-looking Gutenberg block for displaying code snippets.
 
 It uses [Prism.js](https://github.com/PrismJS/prism) and [a port](https://github.com/AGMStudio/prism-theme-one-dark) of the beautiful [Atom One Dark](https://github.com/atom/one-dark-syntax) code theme with [Fira Code](https://fonts.google.com/specimen/Fira+Code).
 
