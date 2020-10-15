@@ -6,23 +6,30 @@ It uses [Prism.js](https://github.com/PrismJS/prism) and [a port](https://github
 
 ![](https://i.imgur.com/tYNqfg7.png)
 
+Notable features:
+- Syntax highlighting
+- Tab support
+- Special glyphs for arrow functions, operators, etc
+- Nice interface
+- 17+ languages supported
+
 Supported languages:
-* HTML*
-* CSS
-* JavaScript
-* Python
-* PHP
-* Ruby
-* SCSS
-* C
-* C++
-* C#
-* Objective-C
-* TypeScript
-* Swift
-* Go
-* JSON
-* SQL
-* Bash
+- HTML*
+- CSS
+- JavaScript
+- Python
+- PHP
+- Ruby
+- SCSS
+- C
+- C++
+- C#
+- Objective-C
+- TypeScript
+- Swift
+- Go
+- JSON
+- SQL
+- Bash
 
 _*Any XML-like markup is supported_
