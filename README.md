@@ -6,7 +6,7 @@ It uses [Prism.js](https://github.com/PrismJS/prism) and [a port](https://github
 
 ![](https://i.imgur.com/tYNqfg7.png)
 
-Notable features:
+Features:
 - Syntax highlighting
 - Tab support
 - Special glyphs for arrow functions, operators, etc
