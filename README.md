@@ -1,3 +1,5 @@
+<img align="right" width="100" height="100" src="https://i.imgur.com/6fIBFF1.png">
+
 # Gutenberg Code Block
 
 A simple and nice-looking Gutenberg block for displaying code snippets.
